@@ -1,0 +1,2 @@
+# Minimal_Solutions_to_Uncalibrated_Two-view_Geometry_with_Known_Epipoles
+My Notes about the paper : Nakano_Minimal_Solutions_to_Uncalibrated_Two-view_Geometry_with_Known_Epipoles_ICCV_2023_paper
